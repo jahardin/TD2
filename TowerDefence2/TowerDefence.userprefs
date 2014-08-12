@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Turrets\Turret_Cannon.js">
+    <Files>
+      <File FileName="Assets\Scripts\GUI\InGameGUI.js" Line="83" Column="4" />
+      <File FileName="Assets\Plugins\NGUI\Interaction\UIButton.cs" Line="92" Column="81" />
+      <File FileName="Assets\Scripts\Enemies\FlyingEnemy.js" Line="13" Column="4" />
+      <File FileName="Assets\Scripts\Projectiles\Projectile_Missile.js" Line="28" Column="30" />
+      <File FileName="Assets\Scripts\Turrets\Turret_SAM.js" Line="60" Column="54" />
+      <File FileName="Assets\Scripts\Projectiles\Projectile_Cannon.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerBase.js" Line="13" Column="27" />
+      <File FileName="Assets\Scripts\LevelMaster.js" Line="7" Column="19" />
+      <File FileName="Assets\Scripts\Turrets\Turret_Cannon.js" Line="75" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: d9d4f817d1b5d1944960146ca787c4fc
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - myProjectile: {fileID: 100000, guid: c5d0052750ef02049be88e3e872ede51, type: 2}
+  - muzzleEffect: {instanceID: 0}
+  - myTarget: {instanceID: 0}
+  - turretBall: {fileID: 400004, guid: cbb526b6e92b8a748ae5af75fcede49b, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
